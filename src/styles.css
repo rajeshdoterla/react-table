@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+th {
+  border: 1px solid gray;
+}
+td {
+  border: 1px solid gray;
+}
